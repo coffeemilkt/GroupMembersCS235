@@ -2,7 +2,7 @@
 
 ## Description
 
-A Web application that demonstrates use of Python's Flask framework. The application makes use of libraries such as the Jinja templating library and WTForms. Architectural design patterns and principles including Repository, Dependency Inversion and Single Responsibility have been used to design the application. The application uses Flask Blueprints to maintain a separation of concerns between application functions. Testing includes unit and end-to-end testing using the pytest tool. 
+A web-based digital podcast library (similar to Podchaser or ListenNotes), a platform where users can browse, search, and interact with a collection of podcasts. Users can also like podcasts, create playlists, and provide comments or ratings once logged in. The application uses Flask Blueprints to maintain a separation of concerns between application functions. Testing includes unit and end-to-end testing using the pytest tool. 
 
 ## Installation
 
